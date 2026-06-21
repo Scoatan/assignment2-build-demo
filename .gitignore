@@ -1,0 +1,17 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Operating-system files
+.DS_Store
+
+# Eclipse workspace metadata
+.metadata/
