@@ -9,7 +9,7 @@ public class AppTest {
     @Test
     public void testBuildMessage() {
         assertEquals(
-            "Assignment 5: Docker container rebuild test is working - updated by Johnathan G Baez.",
+            "Midterm DevOps Demo: GitHub, Maven, JUnit, Jenkins, and Docker are working together - Johnathan G Baez.",
             App.getBuildMessage()
         );
     }

@@ -5,7 +5,7 @@ package com.johnathan.homework;
 public class App {
 
     public static String getBuildMessage() {
-	return "Assignment 5: Docker container rebuild test is working - updated by Johnathan G Baez.";
+	return "Midterm DevOps Demo: GitHub, Maven, JUnit, Jenkins, and Docker are working together - Johnathan G Baez.";
     }
 
     // Adding Method [METHOD TO BE TESTED]
